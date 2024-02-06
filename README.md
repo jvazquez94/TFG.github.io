@@ -3,7 +3,7 @@
 
 Proyecto sobre control de drones en webVR con Aframe.
 
-**[Escena 1](Escena 1/scene1.html)
+[Escena 1](Escena 1/scene1.html)
 
 
 
