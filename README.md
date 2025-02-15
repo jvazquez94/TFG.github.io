@@ -1,7 +1,7 @@
 # TFG
 
 
-Proyecto sobre control de drones en webVR con Aframe.
+Proyecto sobre conjunto de herramientas para la creación de museos realidad extendida con Aframe.
 
 [Escena 1](Escena 1/scene1.html)
 
